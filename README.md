@@ -2,7 +2,7 @@
 
 **`Consultora em Pesquisa de Mercado e Insights do Consumidor | Especialista em Estratégias Baseadas em Dados`**
 
-Eu me chamo Letícia Rosa, tenho 37 anos e moro em São Paulo. Sou formada em administração de empresas pela FEARP/USP, tenho mestrado acadêmico em administração de empresas pela FGV/EASP e pós-graduação em Pesquisa de Mercado e Consumer Insights pela EPM. Atualmente, estou cursando Bootcamp de Data Analytics S&P Global Foundation da WomakersCode. Atualmente, crio estratégias baseadas em dados e ensino empreendedores a usarem os dados disponíveis para estruturarem seus negócios, posicionarem suas marcas e venderem. Compartilho meu conhecimento por meio do meu perfil no LinkedIn, onde apresento insights de como gerar valor por meio dos dados.
+Eu me chamo Letícia Rosa, tenho 37 anos e moro em São Paulo. Sou formada em administração de empresas pela FEARP/USP, tenho mestrado acadêmico em administração de empresas pela FGV/EASP e pós-graduação em Pesquisa de Mercado e Consumer Insights pela EPM. Atualmente, estou cursando Bootcamp de Data Analytics S&P Global Foundation da WomakersCode. Também crio estratégias baseadas em dados e ensino empreendedores a usarem os dados disponíveis para estruturarem seus negócios, posicionarem suas marcas e venderem. Compartilho meu conhecimento por meio do meu perfil no LinkedIn, onde apresento insights de como gerar valor por meio dos dados.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/leticia-coelho-rosa/">
